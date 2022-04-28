@@ -4,6 +4,8 @@ This is a demo of a Slack application, with automated conversations using a Bot 
 
 Simulates new messages in the background and all the fun stuff. Enjoy!
 
+![](https://user-images.githubusercontent.com/5881557/165839561-c8e0224b-5d65-4822-ba40-4c7691bfa243.png)
+
 ---
 
 # Getting Started with Create React App
